@@ -1,0 +1,369 @@
+*{
+    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+
+
+}
+
+table img{
+    width: 20%;
+    
+}
+
+.head{
+    height: 150px;
+
+}
+.head img{
+    padding-top: 30px;
+    position: relative;
+    width: 5%;
+    left: 25%;
+  
+}
+
+.head a{
+    position: relative;
+    bottom: 20px;
+    padding: 20px;
+    left: 25%;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+}
+
+.head h1{
+    position: relative;
+    left: 31%;
+    bottom: 55%;
+    font-family: sans-serif;
+}
+
+.head p{
+        position: relative;
+        left: 31%;
+        bottom: 55%;
+        font-family: sans-serif;
+        color: rgb(43, 122, 212);
+}
+
+.text1{
+    background-color: rgb(43, 122, 212);
+    color: white;
+    font-family: sans-serif;
+    height: 700px;
+}
+
+.p1{
+    position: relative;
+    left: 15%;
+    width: 40%;
+    top: 44%;
+    
+}
+
+.p2{
+    position: relative;
+    left: 15%;
+    width: 30%;
+    top: 47%;
+    
+}
+
+.text1 h2{
+    width: 30%;
+    position: relative;
+    left: 15%;
+    top: 45%;
+}
+
+.text1 img{
+    position: relative;
+    left: 50%;
+    top: 5%;
+
+}
+
+.text2{
+    background-color: rgb(23, 30, 39) ;
+    height: 150px;
+}
+
+.text2 h2{
+    position: relative;
+    left: 15%;
+    top: 30%;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.text2 p{
+    position: relative;
+    left: 15%;
+    top: 31%;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.text2 button{
+    position: relative;
+    left: 70%;
+    top: 5%;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    background-color: rgb(43, 122, 212);
+    width: 12%;
+    height: 30%;
+    border-radius: 5px;
+    border-color: rgb(43, 122, 212);
+}
+
+.text2 button img{
+    position: relative;
+    right: 9px;
+    top: 2px;
+}
+
+.text3 img{
+    width: 5%;
+
+}
+
+.text3 h1{
+    font-family: sans-serif;
+    width: 55%;
+    text-align: center;
+    padding-left: 23%;
+    padding-top: 15%;
+    padding-bottom: 3%;
+}
+
+.text3{
+    text-align: center;
+}
+
+.text3 span{
+    color: rgb(43, 122, 212) ;
+}
+
+.quad{
+    width: 1024px;
+
+}
+
+
+.ic1{
+    width: 33%;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    top: 50px;
+    font-family: sans-serif;
+    
+}
+
+.ic2{
+    width: 33%; 
+    text-align: center;
+    position: relative;
+    left: 60%;
+    top: -150px;
+    font-family: sans-serif;
+}
+
+.ic3{
+    width: 33%;
+    text-align: center;
+    position: relative;
+    left: 95%;
+    top: -350px;
+    font-family: sans-serif;
+    
+}
+
+.quad img{
+    width: 40%;
+}
+
+.text4{
+    background-color: rgb(233, 233, 233);
+    padding-bottom: 100px;
+   
+}
+.text4 h1{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(233, 233, 233);
+    padding-top: 10%;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+.text4 h1 span{
+    color: rgb(43, 122, 212);
+
+}
+
+table{
+    border-collapse: collapse;
+    width: 1024px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    right: -17%;
+    border-radius: 10px;
+    box-shadow:
+    0 0 15px rgb(43, 122, 212),
+    0 0 30px rgb(43, 122, 212),   
+    0 0 45px rgb(71, 125, 188);   
+    transition: box-shadow 0.3s ease;
+}
+
+table p{
+    color: rgb(202, 202, 202);
+    position: relative;
+  
+}
+
+.ip1{
+    position: relative;
+    left: 35%;
+    bottom: -10px;
+}
+.ip2{
+    position: relative;
+    left: 20%;
+    bottom: -10px;
+}
+.ip3{
+    position: relative;
+    left: 25%;
+    bottom: -10px;
+}
+.ip4{
+    position: relative;
+    left: 25%;
+    bottom: -10px;
+}
+
+table img{
+    position: relative;
+    text-align: center;
+    width: 30%;
+}
+
+table th{
+    height: 200px;
+    background-color: white;
+    position: relative;
+
+}
+
+tr, th, td{
+    border: solid 1px rgb(208, 208, 208);
+    text-align: center;
+    padding: 15px;
+     
+}
+
+.of{
+    background-color: white;
+}
+
+.dom{
+    background-color: white;
+}
+
+.text5{
+    background-color: rgb(43, 122, 212) ;
+    height: 150px;
+}
+
+.text5 h2{
+    position: relative;
+    left: 15%;
+    top: 30%;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.text5 h3{
+    position: relative;
+    left: 17%;
+    top: 35%;
+    color: white;
+    font-family: sans-serif;
+    width: 25%;
+
+}
+
+.text5 button{
+    position: relative;
+    left: 67%;
+    top: 5%;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    background-color: rgb(23, 30, 39);
+    width: 15%;
+    height: 35%;
+    border-radius: 5px;
+    border: none;
+}
+
+.text5 button img{
+    position: relative;
+    right: 9px;
+    top: 2px;
+}
+
+.roda img{
+    width: 5%;
+    text-align: center;
+    padding-left: 40%;
+    padding-top: 5%;
+}
+
+.roda h1{
+    position: relative;
+    left: 46%;
+    bottom: 85px;
+    font-family: sans-serif;
+}
+
+.roda p{
+    position: relative;
+    left: 46%;
+    bottom: 85px;
+    font-family: sans-serif;
+    color: rgb(43, 122, 212);
+
+}
+
+.roda1{
+    position: relative;
+    font-family: sans-serif;
+    text-align: center;
+    bottom: 50px;
+}
+
+.roda1 p{
+    padding: 10px;
+}
+
+.nome{
+    background-color: rgb(194, 194, 194);
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+
+.nome span{
+    color: rgb(43, 122, 212)
+}
+
